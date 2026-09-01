@@ -1,0 +1,44 @@
+{
+    "employees": [
+        {
+            "employee_code": "kh-001",
+            "name": "oudom",
+            "age": "17",
+            "gender": "male",
+            "email": "123@gmail.com",
+            "contact": "01534077",
+            "address": "str001",
+            "description": "enginner",
+            "dob": "17/09/2006",
+            "doj": "",
+            "experience": "",
+            "proof_id": "",
+            "status": "employee",
+            "hired_location": "",
+            "basic_salary": 0.0,
+            "net_salary": 0.0,
+            "created_at": "2025-12-22 12:53:20",
+            "updated_at": "2025-12-22 12:53:20"
+        },
+        {
+            "employee_code": "kh-002",
+            "name": "alice",
+            "age": "19",
+            "gender": "female",
+            "email": "345@gmail.com",
+            "contact": "01234567",
+            "address": "street 599",
+            "description": "accountant",
+            "dob": "",
+            "doj": "",
+            "experience": "",
+            "proof_id": "",
+            "status": "Active",
+            "hired_location": "",
+            "basic_salary": 0.0,
+            "net_salary": 0.0,
+            "created_at": "2025-12-22 12:54:43",
+            "updated_at": "2025-12-22 12:54:43"
+        }
+    ]
+}
